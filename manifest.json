@@ -1,0 +1,9 @@
+{
+  "id": "lyrica",
+  "name": "Lyrica",
+  "version": "1.2.0",
+  "minAppVersion": "1.1.0",
+  "description": "Play synced lyrics (TTML or LRC) as animated text inside your notes.",
+  "author": "Fyorne",
+  "isDesktopOnly": false
+}
